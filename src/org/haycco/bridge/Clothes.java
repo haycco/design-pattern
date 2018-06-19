@@ -1,14 +1,3 @@
-/**
- * CopyRright (c) 2000-2011:   www.ygsoft.com                          
- * Project:                    design-pattern
- * FileName:                   Clothes.java 
- * Comments:                   ÇÅÁºÄ£Ê½¡¾Bridge Pattern¡¿                                  
- * JDK version used:           JDK1.5.0                             
- * Author£º                    haycco                 
- * Create Date£º               2012-1-10 ÉÏÎç9:11:05   
- * Version:                    1.0
- *
- */
 package org.haycco.bridge;
 
 /**

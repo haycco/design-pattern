@@ -1,14 +1,3 @@
-/**
- * CopyRright (c) 2000-2011:   www.ygsoft.com                          
- * Project:                    design-pattern
- * FileName:                   Father.java 
- * Comments:                   装饰模式【Decorator Pattern】                                  
- * JDK version used:           JDK1.5.0                             
- * Author：                    haycco                 
- * Create Date：               2012-1-10 下午3:47:12   
- * Version:                    1.0
- *
- */
 package org.haycco.decorator;
 
 /**

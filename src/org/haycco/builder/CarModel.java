@@ -1,14 +1,3 @@
-/**
- * CopyRright (c) 2000-2011:   www.ygsoft.com                          
- * Project:                    design-pattern
- * FileName:                   CarModel.java 
- * Comments:                   建造者模式(Builder Pattern)                                  
- * JDK version used:           JDK1.5.0                             
- * Author：                    haycco                 
- * Create Date：               2011-12-16 下午2:25:42   
- * Version:                    1.0
- *
- */
 package org.haycco.builder;
 
 import java.util.ArrayList;

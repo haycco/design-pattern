@@ -1,14 +1,3 @@
-/**
- * CopyRright (c) 2000-2011:   www.ygsoft.com                          
- * Project:                    design-pattern
- * FileName:                   ModenPostOffice.java 
- * Comments:                   门面模式(Facade Pattern)                                  
- * JDK version used:           JDK1.5.0                             
- * Author：                    haycco                 
- * Create Date：               2011-12-15 上午9:36:53   
- * Version:                    1.0
- *
- */
 package org.haycco.facade;
 
 /**

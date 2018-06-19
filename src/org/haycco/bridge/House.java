@@ -1,14 +1,3 @@
-/**
- * CopyRright (c) 2000-2011:   www.ygsoft.com                          
- * Project:                    design-pattern
- * FileName:                   House.java 
- * Comments:                   ÇÅÁºÄ£Ê½¡¾Bridge Pattern¡¿                                  
- * JDK version used:           JDK1.5.0                             
- * Author£º                    haycco                 
- * Create Date£º               2012-1-10 ÉÏÎç9:09:51   
- * Version:                    1.0
- *
- */
 package org.haycco.bridge;
 
 /**
